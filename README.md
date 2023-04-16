@@ -2,4 +2,4 @@
 
 ## EduHub
 
-Users can expand and enhance thier general knoledge by using this mobile appliacation.
+Users can expand and enhance their general knowledge by using this mobile application.
